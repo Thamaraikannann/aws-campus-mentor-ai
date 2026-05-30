@@ -218,3 +218,9 @@ These enhancements will be implemented in upcoming challenges.
 This challenge provided a strong foundation for understanding how AI Agents work. By combining Strands SDK with Ollama, I was able to build an AWS-focused educational assistant that runs entirely on a local machine.
 
 This project serves as the first step toward building more advanced AI systems using Amazon Bedrock, Memory, Tool Calling, and MCP in subsequent challenges.
+
+---
+
+## 🏗️ Architecture Diagram
+
+![Challenge 1 Architecture](screenshots/Challenge-1-Architecture.png)
